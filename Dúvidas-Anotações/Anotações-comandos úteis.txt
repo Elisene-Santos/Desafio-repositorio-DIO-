@@ -1,0 +1,11 @@
+Comandos dentro do git bash
+
+entrar na pasta: cd Windows
+sair da pasta: cd ..
+limpar: cls
+limpar: clear
+abrir as pastas do computador: dir
+remover repositório: rm workspace /s /q
+adicionar ao repositório: git commit -m
+adicionar ao repositório: git push origin main
+atualizar o a "página" do Git Bash: git status
